@@ -3,7 +3,7 @@
 # A/B TESTING USING PYTHON
 - In this notebook we'll go over the process of analysing an A/B test, from formulating a hypothesis, testing it, and finally interpreting results.
 - For my data, I'll use a dataset which contains the results of an A/B test on what seems to be 2 different designs of a website page (old_page vs. new_page). Here's what I'll do:
-  1. Designing our experiment
+  1. Designing my experiment
   2. Collecting and preparing the data
   3. Visualising the results
   4. Testing the hypothesis
