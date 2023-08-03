@@ -1,4 +1,5 @@
 # WHAT IS A/B TESTING
+![ab-testing-scaled](https://github.com/minhducgon/AB_Testing/assets/121803855/86e5fbdf-1b27-4cc3-a04d-6f694bbaf092)
 - A/B testing is essentially an experiment where two or more versions of a variable are shown to users at random, and statistical analysis is used to determine which variation performs better for a given conversion goal.
 # A/B TESTING USING PYTHON
 - In this notebook we'll go over the process of analysing an A/B test, from formulating a hypothesis, testing it, and finally interpreting results.
